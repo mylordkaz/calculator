@@ -12,9 +12,6 @@ function divide(a, b){
     return a / b
 }
 
-
-let ope = ''
-
 function operate(ope, a, b){
     a = Number(a)
     b = Number(b)
