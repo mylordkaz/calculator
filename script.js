@@ -33,4 +33,7 @@ function operate(ope, a, b){
     }
 }
 
+const result = document.querySelector('result')
+const clearButton = document.querySelector('clear')
+const backButton = document.querySelector('back')
 
