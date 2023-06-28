@@ -46,9 +46,9 @@ button{
     
 }
 .btn{
-    border: 1px solid gray;
+    
     border-radius: 20px;
-    text-align: center;
+    margin: 1px;
 }
 .back{
     border-radius: 20px;
